@@ -1,0 +1,711 @@
+{
+    "alternatives": [
+        {
+            "name": "Product 1",
+            "initialPrice": 0.6080402010050251,
+            "ageInMonths": 0.08333333333333333,
+            "quality": 1
+        },
+        {
+            "name": "Product 2",
+            "initialPrice": 0.6482412060301508,
+            "ageInMonths": 1,
+            "quality": 0.6
+        },
+        {
+            "name": "Product 3",
+            "initialPrice": 0.2814070351758794,
+            "ageInMonths": 0.03571428571428571,
+            "quality": 0.6
+        },
+        {
+            "name": "Product 4",
+            "initialPrice": 0.46733668341708545,
+            "ageInMonths": 0.058823529411764705,
+            "quality": 1
+        },
+        {
+            "name": "Product 5",
+            "initialPrice": 0.9748743718592965,
+            "ageInMonths": 0.3333333333333333,
+            "quality": 0.2
+        },
+        {
+            "name": "Product 6",
+            "initialPrice": 1,
+            "ageInMonths": 0.047619047619047616,
+            "quality": 0.2
+        },
+        {
+            "name": "Product 7",
+            "initialPrice": 0.5175879396984925,
+            "ageInMonths": 0.06666666666666667,
+            "quality": 1
+        },
+        {
+            "name": "Product 8",
+            "initialPrice": 0.914572864321608,
+            "ageInMonths": 0.047619047619047616,
+            "quality": 0.6
+        },
+        {
+            "name": "Product 9",
+            "initialPrice": 0.41708542713567837,
+            "ageInMonths": 0.25,
+            "quality": 0.6
+        },
+        {
+            "name": "Product 10",
+            "initialPrice": 0.9899497487437185,
+            "ageInMonths": 0.045454545454545456,
+            "quality": 0.8
+        },
+        {
+            "name": "Product 11",
+            "initialPrice": 0.5376884422110553,
+            "ageInMonths": 0.047619047619047616,
+            "quality": 0.4
+        },
+        {
+            "name": "Product 12",
+            "initialPrice": 0.9296482412060302,
+            "ageInMonths": 0.16666666666666666,
+            "quality": 0.2
+        },
+        {
+            "name": "Product 13",
+            "initialPrice": 0.2914572864321608,
+            "ageInMonths": 0.045454545454545456,
+            "quality": 0.6
+        },
+        {
+            "name": "Product 14",
+            "initialPrice": 0.6331658291457286,
+            "ageInMonths": 0.07692307692307693,
+            "quality": 0.6
+        },
+        {
+            "name": "Product 15",
+            "initialPrice": 0.2562814070351759,
+            "ageInMonths": 0.038461538461538464,
+            "quality": 0.4
+        },
+        {
+            "name": "Product 16",
+            "initialPrice": 0.8040201005025126,
+            "ageInMonths": 0.07692307692307693,
+            "quality": 0.4
+        },
+        {
+            "name": "Product 17",
+            "initialPrice": 0.3165829145728643,
+            "ageInMonths": 0.038461538461538464,
+            "quality": 0.6
+        },
+        {
+            "name": "Product 18",
+            "initialPrice": 0.8190954773869347,
+            "ageInMonths": 0.14285714285714285,
+            "quality": 0.8
+        },
+        {
+            "name": "Product 19",
+            "initialPrice": 0.2964824120603015,
+            "ageInMonths": 0.25,
+            "quality": 0.6
+        },
+        {
+            "name": "Product 20",
+            "initialPrice": 0.8391959798994975,
+            "ageInMonths": 0.043478260869565216,
+            "quality": 0.2
+        },
+        {
+            "name": "Product 21",
+            "initialPrice": 0.36180904522613067,
+            "ageInMonths": 0.029411764705882353,
+            "quality": 0.8
+        },
+        {
+            "name": "Product 22",
+            "initialPrice": 0.9547738693467337,
+            "ageInMonths": 0.029411764705882353,
+            "quality": 0.6
+        },
+        {
+            "name": "Product 23",
+            "initialPrice": 0.8994974874371859,
+            "ageInMonths": 0.07692307692307693,
+            "quality": 0.8
+        },
+        {
+            "name": "Product 24",
+            "initialPrice": 0.6231155778894473,
+            "ageInMonths": 0.3333333333333333,
+            "quality": 0.8
+        },
+        {
+            "name": "Product 25",
+            "initialPrice": 0.3969849246231156,
+            "ageInMonths": 0.0625,
+            "quality": 1
+        },
+        {
+            "name": "Product 26",
+            "initialPrice": 0.6934673366834171,
+            "ageInMonths": 0.1111111111111111,
+            "quality": 0.8
+        },
+        {
+            "name": "Product 27",
+            "initialPrice": 0.5376884422110553,
+            "ageInMonths": 0.037037037037037035,
+            "quality": 0.6
+        },
+        {
+            "name": "Product 28",
+            "initialPrice": 0.9045226130653267,
+            "ageInMonths": 0.03225806451612903,
+            "quality": 0.2
+        },
+        {
+            "name": "Product 29",
+            "initialPrice": 0.5829145728643216,
+            "ageInMonths": 0.3333333333333333,
+            "quality": 1
+        },
+        {
+            "name": "Product 30",
+            "initialPrice": 0.39195979899497485,
+            "ageInMonths": 0.0625,
+            "quality": 0.2
+        },
+        {
+            "name": "Product 31",
+            "initialPrice": 0.7135678391959799,
+            "ageInMonths": 0.5,
+            "quality": 0.8
+        },
+        {
+            "name": "Product 32",
+            "initialPrice": 0.6683417085427136,
+            "ageInMonths": 0.2,
+            "quality": 0.4
+        },
+        {
+            "name": "Product 33",
+            "initialPrice": 0.7336683417085427,
+            "ageInMonths": 0.030303030303030304,
+            "quality": 0.8
+        },
+        {
+            "name": "Product 34",
+            "initialPrice": 0.271356783919598,
+            "ageInMonths": 0.09090909090909091,
+            "quality": 0.8
+        },
+        {
+            "name": "Product 35",
+            "initialPrice": 0.32663316582914576,
+            "ageInMonths": 0.2,
+            "quality": 0.6
+        },
+        {
+            "name": "Product 36",
+            "initialPrice": 0.7135678391959799,
+            "ageInMonths": 0.16666666666666666,
+            "quality": 0.2
+        },
+        {
+            "name": "Product 37",
+            "initialPrice": 0.49748743718592964,
+            "ageInMonths": 0.07142857142857142,
+            "quality": 0.4
+        },
+        {
+            "name": "Product 38",
+            "initialPrice": 0.9547738693467337,
+            "ageInMonths": 0.2,
+            "quality": 0.2
+        },
+        {
+            "name": "Product 39",
+            "initialPrice": 0.9698492462311558,
+            "ageInMonths": 0.03571428571428571,
+            "quality": 0.6
+        },
+        {
+            "name": "Product 40",
+            "initialPrice": 0.49246231155778897,
+            "ageInMonths": 0.043478260869565216,
+            "quality": 0.4
+        },
+        {
+            "name": "Product 41",
+            "initialPrice": 0.2964824120603015,
+            "ageInMonths": 0.25,
+            "quality": 0.8
+        },
+        {
+            "name": "Product 42",
+            "initialPrice": 0.9296482412060302,
+            "ageInMonths": 0.07142857142857142,
+            "quality": 1
+        },
+        {
+            "name": "Product 43",
+            "initialPrice": 0.864321608040201,
+            "ageInMonths": 0.043478260869565216,
+            "quality": 0.4
+        },
+        {
+            "name": "Product 44",
+            "initialPrice": 0.507537688442211,
+            "ageInMonths": 0.07692307692307693,
+            "quality": 0.4
+        },
+        {
+            "name": "Product 45",
+            "initialPrice": 0.4221105527638191,
+            "ageInMonths": 0.047619047619047616,
+            "quality": 1
+        },
+        {
+            "name": "Product 46",
+            "initialPrice": 0.6130653266331658,
+            "ageInMonths": 0.5,
+            "quality": 0.8
+        },
+        {
+            "name": "Product 47",
+            "initialPrice": 0.35678391959798994,
+            "ageInMonths": 0.05263157894736842,
+            "quality": 0.4
+        },
+        {
+            "name": "Product 48",
+            "initialPrice": 0.4623115577889447,
+            "ageInMonths": 0.03571428571428571,
+            "quality": 1
+        },
+        {
+            "name": "Product 49",
+            "initialPrice": 0.36180904522613067,
+            "ageInMonths": 0.1,
+            "quality": 0.2
+        },
+        {
+            "name": "Product 50",
+            "initialPrice": 0.44221105527638194,
+            "ageInMonths": 0.041666666666666664,
+            "quality": 1
+        },
+        {
+            "name": "Product 51",
+            "initialPrice": 0.9849246231155779,
+            "ageInMonths": 0.058823529411764705,
+            "quality": 0.2
+        },
+        {
+            "name": "Product 52",
+            "initialPrice": 0.6532663316582915,
+            "ageInMonths": 0.0625,
+            "quality": 0.4
+        },
+        {
+            "name": "Product 53",
+            "initialPrice": 0.2864321608040201,
+            "ageInMonths": 0.03571428571428571,
+            "quality": 0.6
+        },
+        {
+            "name": "Product 54",
+            "initialPrice": 0.8592964824120602,
+            "ageInMonths": 0.043478260869565216,
+            "quality": 1
+        },
+        {
+            "name": "Product 55",
+            "initialPrice": 0.6130653266331658,
+            "ageInMonths": 0.05555555555555555,
+            "quality": 0.6
+        },
+        {
+            "name": "Product 56",
+            "initialPrice": 0.34673366834170855,
+            "ageInMonths": 0.047619047619047616,
+            "quality": 0.6
+        },
+        {
+            "name": "Product 57",
+            "initialPrice": 0.36683417085427134,
+            "ageInMonths": 0.25,
+            "quality": 0.2
+        },
+        {
+            "name": "Product 58",
+            "initialPrice": 1,
+            "ageInMonths": 0.038461538461538464,
+            "quality": 0.2
+        },
+        {
+            "name": "Product 59",
+            "initialPrice": 0.5175879396984925,
+            "ageInMonths": 0.03125,
+            "quality": 0.8
+        },
+        {
+            "name": "Product 60",
+            "initialPrice": 0.6482412060301508,
+            "ageInMonths": 0.1,
+            "quality": 0.4
+        },
+        {
+            "name": "Product 61",
+            "initialPrice": 0.4221105527638191,
+            "ageInMonths": 0.05,
+            "quality": 0.8
+        },
+        {
+            "name": "Product 62",
+            "initialPrice": 0.5979899497487438,
+            "ageInMonths": 0.2,
+            "quality": 0.8
+        },
+        {
+            "name": "Product 63",
+            "initialPrice": 0.31155778894472363,
+            "ageInMonths": 0.03333333333333333,
+            "quality": 0.4
+        },
+        {
+            "name": "Product 64",
+            "initialPrice": 0.5226130653266332,
+            "ageInMonths": 0.03333333333333333,
+            "quality": 0.8
+        },
+        {
+            "name": "Product 65",
+            "initialPrice": 0.6331658291457286,
+            "ageInMonths": 0.25,
+            "quality": 1
+        },
+        {
+            "name": "Product 66",
+            "initialPrice": 0.271356783919598,
+            "ageInMonths": 0.14285714285714285,
+            "quality": 0.2
+        },
+        {
+            "name": "Product 67",
+            "initialPrice": 1,
+            "ageInMonths": 0.14285714285714285,
+            "quality": 0.8
+        },
+        {
+            "name": "Product 68",
+            "initialPrice": 0.9396984924623115,
+            "ageInMonths": 1,
+            "quality": 0.4
+        },
+        {
+            "name": "Product 69",
+            "initialPrice": 0.5477386934673367,
+            "ageInMonths": 0.03125,
+            "quality": 0.2
+        },
+        {
+            "name": "Product 70",
+            "initialPrice": 0.5628140703517588,
+            "ageInMonths": 0.029411764705882353,
+            "quality": 0.8
+        },
+        {
+            "name": "Product 71",
+            "initialPrice": 0.7638190954773869,
+            "ageInMonths": 0.05263157894736842,
+            "quality": 0.6
+        },
+        {
+            "name": "Product 72",
+            "initialPrice": 0.9195979899497487,
+            "ageInMonths": 0.04,
+            "quality": 1
+        },
+        {
+            "name": "Product 73",
+            "initialPrice": 0.5175879396984925,
+            "ageInMonths": 0.04,
+            "quality": 0.6
+        },
+        {
+            "name": "Product 74",
+            "initialPrice": 0.5527638190954773,
+            "ageInMonths": 0.05,
+            "quality": 0.6
+        },
+        {
+            "name": "Product 75",
+            "initialPrice": 0.7989949748743719,
+            "ageInMonths": 0.034482758620689655,
+            "quality": 0.4
+        },
+        {
+            "name": "Product 76",
+            "initialPrice": 0.37185929648241206,
+            "ageInMonths": 0.0625,
+            "quality": 1
+        },
+        {
+            "name": "Product 77",
+            "initialPrice": 0.7638190954773869,
+            "ageInMonths": 0.07142857142857142,
+            "quality": 0.4
+        },
+        {
+            "name": "Product 78",
+            "initialPrice": 0.9849246231155779,
+            "ageInMonths": 0.25,
+            "quality": 0.6
+        },
+        {
+            "name": "Product 79",
+            "initialPrice": 0.9547738693467337,
+            "ageInMonths": 0.3333333333333333,
+            "quality": 0.8
+        },
+        {
+            "name": "Product 80",
+            "initialPrice": 0.4020100502512563,
+            "ageInMonths": 0.125,
+            "quality": 0.2
+        },
+        {
+            "name": "Product 81",
+            "initialPrice": 0.9698492462311558,
+            "ageInMonths": 0.1111111111111111,
+            "quality": 0.8
+        },
+        {
+            "name": "Product 82",
+            "initialPrice": 0.9447236180904522,
+            "ageInMonths": 0.03333333333333333,
+            "quality": 0.8
+        },
+        {
+            "name": "Product 83",
+            "initialPrice": 0.3969849246231156,
+            "ageInMonths": 0.125,
+            "quality": 0.4
+        },
+        {
+            "name": "Product 84",
+            "initialPrice": 0.3869346733668342,
+            "ageInMonths": 0.045454545454545456,
+            "quality": 0.8
+        },
+        {
+            "name": "Product 85",
+            "initialPrice": 0.32663316582914576,
+            "ageInMonths": 0.03125,
+            "quality": 1
+        },
+        {
+            "name": "Product 86",
+            "initialPrice": 0.7688442211055276,
+            "ageInMonths": 0.047619047619047616,
+            "quality": 1
+        },
+        {
+            "name": "Product 87",
+            "initialPrice": 0.44221105527638194,
+            "ageInMonths": 0.02857142857142857,
+            "quality": 0.2
+        },
+        {
+            "name": "Product 88",
+            "initialPrice": 0.5577889447236181,
+            "ageInMonths": 0.02857142857142857,
+            "quality": 0.6
+        },
+        {
+            "name": "Product 89",
+            "initialPrice": 0.9095477386934674,
+            "ageInMonths": 0.030303030303030304,
+            "quality": 0.8
+        },
+        {
+            "name": "Product 90",
+            "initialPrice": 0.6633165829145728,
+            "ageInMonths": 0.0625,
+            "quality": 0.8
+        },
+        {
+            "name": "Product 91",
+            "initialPrice": 0.9195979899497487,
+            "ageInMonths": 0.3333333333333333,
+            "quality": 0.6
+        },
+        {
+            "name": "Product 92",
+            "initialPrice": 0.542713567839196,
+            "ageInMonths": 0.5,
+            "quality": 1
+        },
+        {
+            "name": "Product 93",
+            "initialPrice": 0.6984924623115578,
+            "ageInMonths": 1,
+            "quality": 0.4
+        },
+        {
+            "name": "Product 94",
+            "initialPrice": 0.628140703517588,
+            "ageInMonths": 0.2,
+            "quality": 1
+        },
+        {
+            "name": "Product 95",
+            "initialPrice": 0.3316582914572864,
+            "ageInMonths": 0.045454545454545456,
+            "quality": 0.4
+        },
+        {
+            "name": "Product 96",
+            "initialPrice": 0.9698492462311558,
+            "ageInMonths": 0.02857142857142857,
+            "quality": 0.2
+        },
+        {
+            "name": "Product 97",
+            "initialPrice": 0.6582914572864321,
+            "ageInMonths": 0.06666666666666667,
+            "quality": 1
+        },
+        {
+            "name": "Product 98",
+            "initialPrice": 0.7236180904522613,
+            "ageInMonths": 0.1,
+            "quality": 0.2
+        },
+        {
+            "name": "Product 99",
+            "initialPrice": 0.864321608040201,
+            "ageInMonths": 0.041666666666666664,
+            "quality": 0.6
+        },
+        {
+            "name": "Product 100",
+            "initialPrice": 0.36683417085427134,
+            "ageInMonths": 0.047619047619047616,
+            "quality": 0.2
+        }
+    ],
+    "weights": [
+        0.7,
+        0.2,
+        0.1
+    ],
+    "scores": [
+        0.5422948073701842,
+        0.7137688442211056,
+        0.26412778176597274,
+        0.43890038427431277,
+        0.7690787269681741,
+        0.7295238095238095,
+        0.47564489112227804,
+        0.709724814548935,
+        0.4019597989949748,
+        0.7820557332115119,
+        0.42590571907154817,
+        0.7040871021775544,
+        0.2731110095934216,
+        0.5186006957866254,
+        0.2270892926169308,
+        0.6181986857363742,
+        0.2893003478933127,
+        0.6819382627422828,
+        0.31753768844221103,
+        0.6161328381035612,
+        0.3391486845994679,
+        0.73422406148389,
+        0.7250328565906456,
+        0.5828475711892798,
+        0.39038944723618085,
+        0.5876493579006141,
+        0.44378931695514606,
+        0.6596174420489544,
+        0.5747068676716918,
+        0.3068718592964824,
+        0.679497487437186,
+        0.5478391959798995,
+        0.5996284452565859,
+        0.28813156692553676,
+        0.328643216080402,
+        0.5528308207705193,
+        0.402526920315865,
+        0.7283417085427136,
+        0.7460373295046661,
+        0.3934192702643653,
+        0.33753768844221105,
+        0.7650394831299353,
+        0.6537207778020536,
+        0.41066099729416305,
+        0.40500119645848287,
+        0.609145728643216,
+        0.30027505950806666,
+        0.4307609475951184,
+        0.29326633165829147,
+        0.4178810720268007,
+        0.7212119420632574,
+        0.509786432160804,
+        0.2676453697056712,
+        0.7102031898623551,
+        0.5002568397543272,
+        0.3122373773630055,
+        0.3267839195979899,
+        0.7276923076923076,
+        0.4485615577889447,
+        0.5137688442211056,
+        0.38547738693467337,
+        0.5385929648241206,
+        0.26475711892797316,
+        0.4524958123953099,
+        0.59321608040201,
+        0.23852117731514716,
+        0.8085714285714285,
+        0.897788944723618,
+        0.4096670854271357,
+        0.4798522021874076,
+        0.6051996826236445,
+        0.751718592964824,
+        0.4303115577889447,
+        0.45693467336683413,
+        0.6061930341361983,
+        0.3728015075376885,
+        0.588959081119885,
+        0.7994472361809046,
+        0.8150083752093802,
+        0.32640703517587943,
+        0.7811166945840313,
+        0.7479731993299832,
+        0.34288944723618087,
+        0.359945180447693,
+        0.334893216080402,
+        0.6477147642976788,
+        0.3352620244077531,
+        0.4561665470208183,
+        0.7227440231460331,
+        0.556821608040201,
+        0.7703852596314906,
+        0.5798994974874372,
+        0.7289447236180905,
+        0.5796984924623115,
+        0.2812517131110096,
+        0.7046087580760947,
+        0.5741373534338358,
+        0.5465326633165829,
+        0.6733584589614738,
+        0.28630772912179947
+    ]
+}

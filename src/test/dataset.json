@@ -1,0 +1,702 @@
+[
+    {
+        "name": "Product 1",
+        "quality": 5,
+        "ageInMonths": 12,
+        "initialPrice": 121,
+        "sellingPrice": 84.7
+    },
+    {
+        "name": "Product 2",
+        "quality": 3,
+        "ageInMonths": 1,
+        "initialPrice": 129,
+        "sellingPrice": 68.8
+    },
+    {
+        "name": "Product 3",
+        "quality": 3,
+        "ageInMonths": 28,
+        "initialPrice": 56,
+        "sellingPrice": 45.42
+    },
+    {
+        "name": "Product 4",
+        "quality": 5,
+        "ageInMonths": 17,
+        "initialPrice": 93,
+        "sellingPrice": 45.47
+    },
+    {
+        "name": "Product 5",
+        "quality": 1,
+        "ageInMonths": 3,
+        "initialPrice": 194,
+        "sellingPrice": 155.2
+    },
+    {
+        "name": "Product 6",
+        "quality": 1,
+        "ageInMonths": 21,
+        "initialPrice": 199,
+        "sellingPrice": 218.9
+    },
+    {
+        "name": "Product 7",
+        "quality": 5,
+        "ageInMonths": 15,
+        "initialPrice": 103,
+        "sellingPrice": 48.07
+    },
+    {
+        "name": "Product 8",
+        "quality": 3,
+        "ageInMonths": 21,
+        "initialPrice": 182,
+        "sellingPrice": 163.8
+    },
+    {
+        "name": "Product 9",
+        "quality": 3,
+        "ageInMonths": 4,
+        "initialPrice": 83,
+        "sellingPrice": 47.03
+    },
+    {
+        "name": "Product 10",
+        "quality": 4,
+        "ageInMonths": 22,
+        "initialPrice": 197,
+        "sellingPrice": 126.96
+    },
+    {
+        "name": "Product 11",
+        "quality": 2,
+        "ageInMonths": 21,
+        "initialPrice": 107,
+        "sellingPrice": 89.17
+    },
+    {
+        "name": "Product 12",
+        "quality": 1,
+        "ageInMonths": 6,
+        "initialPrice": 185,
+        "sellingPrice": 166.5
+    },
+    {
+        "name": "Product 13",
+        "quality": 3,
+        "ageInMonths": 22,
+        "initialPrice": 58,
+        "sellingPrice": 52.2
+    },
+    {
+        "name": "Product 14",
+        "quality": 3,
+        "ageInMonths": 13,
+        "initialPrice": 126,
+        "sellingPrice": 81.2
+    },
+    {
+        "name": "Product 15",
+        "quality": 2,
+        "ageInMonths": 26,
+        "initialPrice": 51,
+        "sellingPrice": 51
+    },
+    {
+        "name": "Product 16",
+        "quality": 2,
+        "ageInMonths": 13,
+        "initialPrice": 160,
+        "sellingPrice": 119.11
+    },
+    {
+        "name": "Product 17",
+        "quality": 3,
+        "ageInMonths": 26,
+        "initialPrice": 63,
+        "sellingPrice": 49.7
+    },
+    {
+        "name": "Product 18",
+        "quality": 4,
+        "ageInMonths": 7,
+        "initialPrice": 163,
+        "sellingPrice": 103.23
+    },
+    {
+        "name": "Product 19",
+        "quality": 3,
+        "ageInMonths": 4,
+        "initialPrice": 59,
+        "sellingPrice": 37.37
+    },
+    {
+        "name": "Product 20",
+        "quality": 1,
+        "ageInMonths": 23,
+        "initialPrice": 167,
+        "sellingPrice": 183.7
+    },
+    {
+        "name": "Product 21",
+        "quality": 4,
+        "ageInMonths": 34,
+        "initialPrice": 72,
+        "sellingPrice": 56
+    },
+    {
+        "name": "Product 22",
+        "quality": 3,
+        "ageInMonths": 34,
+        "initialPrice": 190,
+        "sellingPrice": 166.78
+    },
+    {
+        "name": "Product 23",
+        "quality": 4,
+        "ageInMonths": 13,
+        "initialPrice": 179,
+        "sellingPrice": 143.2
+    },
+    {
+        "name": "Product 24",
+        "quality": 4,
+        "ageInMonths": 3,
+        "initialPrice": 124,
+        "sellingPrice": 62
+    },
+    {
+        "name": "Product 25",
+        "quality": 5,
+        "ageInMonths": 16,
+        "initialPrice": 79,
+        "sellingPrice": 55.3
+    },
+    {
+        "name": "Product 26",
+        "quality": 4,
+        "ageInMonths": 9,
+        "initialPrice": 138,
+        "sellingPrice": 96.6
+    },
+    {
+        "name": "Product 27",
+        "quality": 3,
+        "ageInMonths": 27,
+        "initialPrice": 107,
+        "sellingPrice": 96.3
+    },
+    {
+        "name": "Product 28",
+        "quality": 1,
+        "ageInMonths": 31,
+        "initialPrice": 180,
+        "sellingPrice": 198
+    },
+    {
+        "name": "Product 29",
+        "quality": 5,
+        "ageInMonths": 3,
+        "initialPrice": 116,
+        "sellingPrice": 46.4
+    },
+    {
+        "name": "Product 30",
+        "quality": 1,
+        "ageInMonths": 16,
+        "initialPrice": 78,
+        "sellingPrice": 75.4
+    },
+    {
+        "name": "Product 31",
+        "quality": 4,
+        "ageInMonths": 2,
+        "initialPrice": 142,
+        "sellingPrice": 61.53
+    },
+    {
+        "name": "Product 32",
+        "quality": 2,
+        "ageInMonths": 5,
+        "initialPrice": 133,
+        "sellingPrice": 87.19
+    },
+    {
+        "name": "Product 33",
+        "quality": 4,
+        "ageInMonths": 33,
+        "initialPrice": 146,
+        "sellingPrice": 116.8
+    },
+    {
+        "name": "Product 34",
+        "quality": 4,
+        "ageInMonths": 11,
+        "initialPrice": 54,
+        "sellingPrice": 28.2
+    },
+    {
+        "name": "Product 35",
+        "quality": 3,
+        "ageInMonths": 5,
+        "initialPrice": 65,
+        "sellingPrice": 36.11
+    },
+    {
+        "name": "Product 36",
+        "quality": 1,
+        "ageInMonths": 6,
+        "initialPrice": 142,
+        "sellingPrice": 127.8
+    },
+    {
+        "name": "Product 37",
+        "quality": 2,
+        "ageInMonths": 14,
+        "initialPrice": 99,
+        "sellingPrice": 74.8
+    },
+    {
+        "name": "Product 38",
+        "quality": 1,
+        "ageInMonths": 5,
+        "initialPrice": 190,
+        "sellingPrice": 164.67
+    },
+    {
+        "name": "Product 39",
+        "quality": 3,
+        "ageInMonths": 28,
+        "initialPrice": 193,
+        "sellingPrice": 173.7
+    },
+    {
+        "name": "Product 40",
+        "quality": 2,
+        "ageInMonths": 23,
+        "initialPrice": 98,
+        "sellingPrice": 83.84
+    },
+    {
+        "name": "Product 41",
+        "quality": 4,
+        "ageInMonths": 4,
+        "initialPrice": 59,
+        "sellingPrice": 27.53
+    },
+    {
+        "name": "Product 42",
+        "quality": 5,
+        "ageInMonths": 14,
+        "initialPrice": 185,
+        "sellingPrice": 98.67
+    },
+    {
+        "name": "Product 43",
+        "quality": 2,
+        "ageInMonths": 23,
+        "initialPrice": 172,
+        "sellingPrice": 147.16
+    },
+    {
+        "name": "Product 44",
+        "quality": 2,
+        "ageInMonths": 13,
+        "initialPrice": 101,
+        "sellingPrice": 101
+    },
+    {
+        "name": "Product 45",
+        "quality": 5,
+        "ageInMonths": 21,
+        "initialPrice": 84,
+        "sellingPrice": 54.6
+    },
+    {
+        "name": "Product 46",
+        "quality": 4,
+        "ageInMonths": 2,
+        "initialPrice": 122,
+        "sellingPrice": 51.51
+    },
+    {
+        "name": "Product 47",
+        "quality": 2,
+        "ageInMonths": 19,
+        "initialPrice": 71,
+        "sellingPrice": 71
+    },
+    {
+        "name": "Product 48",
+        "quality": 5,
+        "ageInMonths": 28,
+        "initialPrice": 92,
+        "sellingPrice": 64.4
+    },
+    {
+        "name": "Product 49",
+        "quality": 1,
+        "ageInMonths": 10,
+        "initialPrice": 72,
+        "sellingPrice": 62.4
+    },
+    {
+        "name": "Product 50",
+        "quality": 5,
+        "ageInMonths": 24,
+        "initialPrice": 88,
+        "sellingPrice": 61.6
+    },
+    {
+        "name": "Product 51",
+        "quality": 1,
+        "ageInMonths": 17,
+        "initialPrice": 196,
+        "sellingPrice": 215.6
+    },
+    {
+        "name": "Product 52",
+        "quality": 2,
+        "ageInMonths": 16,
+        "initialPrice": 130,
+        "sellingPrice": 101.11
+    },
+    {
+        "name": "Product 53",
+        "quality": 3,
+        "ageInMonths": 28,
+        "initialPrice": 57,
+        "sellingPrice": 51.3
+    },
+    {
+        "name": "Product 54",
+        "quality": 5,
+        "ageInMonths": 23,
+        "initialPrice": 171,
+        "sellingPrice": 116.85
+    },
+    {
+        "name": "Product 55",
+        "quality": 3,
+        "ageInMonths": 18,
+        "initialPrice": 122,
+        "sellingPrice": 97.6
+    },
+    {
+        "name": "Product 56",
+        "quality": 3,
+        "ageInMonths": 21,
+        "initialPrice": 69,
+        "sellingPrice": 50.6
+    },
+    {
+        "name": "Product 57",
+        "quality": 1,
+        "ageInMonths": 4,
+        "initialPrice": 73,
+        "sellingPrice": 54.34
+    },
+    {
+        "name": "Product 58",
+        "quality": 1,
+        "ageInMonths": 26,
+        "initialPrice": 199,
+        "sellingPrice": 218.9
+    },
+    {
+        "name": "Product 59",
+        "quality": 4,
+        "ageInMonths": 32,
+        "initialPrice": 103,
+        "sellingPrice": 82.4
+    },
+    {
+        "name": "Product 60",
+        "quality": 2,
+        "ageInMonths": 10,
+        "initialPrice": 129,
+        "sellingPrice": 120.4
+    },
+    {
+        "name": "Product 61",
+        "quality": 4,
+        "ageInMonths": 20,
+        "initialPrice": 84,
+        "sellingPrice": 67.2
+    },
+    {
+        "name": "Product 62",
+        "quality": 4,
+        "ageInMonths": 5,
+        "initialPrice": 119,
+        "sellingPrice": 57.52
+    },
+    {
+        "name": "Product 63",
+        "quality": 2,
+        "ageInMonths": 30,
+        "initialPrice": 62,
+        "sellingPrice": 62
+    },
+    {
+        "name": "Product 64",
+        "quality": 4,
+        "ageInMonths": 30,
+        "initialPrice": 104,
+        "sellingPrice": 83.2
+    },
+    {
+        "name": "Product 65",
+        "quality": 5,
+        "ageInMonths": 4,
+        "initialPrice": 126,
+        "sellingPrice": 43.4
+    },
+    {
+        "name": "Product 66",
+        "quality": 1,
+        "ageInMonths": 7,
+        "initialPrice": 54,
+        "sellingPrice": 50.4
+    },
+    {
+        "name": "Product 67",
+        "quality": 4,
+        "ageInMonths": 7,
+        "initialPrice": 199,
+        "sellingPrice": 102.82
+    },
+    {
+        "name": "Product 68",
+        "quality": 2,
+        "ageInMonths": 1,
+        "initialPrice": 187,
+        "sellingPrice": 114.28
+    },
+    {
+        "name": "Product 69",
+        "quality": 1,
+        "ageInMonths": 32,
+        "initialPrice": 109,
+        "sellingPrice": 115.06
+    },
+    {
+        "name": "Product 70",
+        "quality": 4,
+        "ageInMonths": 34,
+        "initialPrice": 112,
+        "sellingPrice": 89.6
+    },
+    {
+        "name": "Product 71",
+        "quality": 3,
+        "ageInMonths": 19,
+        "initialPrice": 152,
+        "sellingPrice": 136.8
+    },
+    {
+        "name": "Product 72",
+        "quality": 5,
+        "ageInMonths": 25,
+        "initialPrice": 183,
+        "sellingPrice": 105.73
+    },
+    {
+        "name": "Product 73",
+        "quality": 3,
+        "ageInMonths": 25,
+        "initialPrice": 103,
+        "sellingPrice": 92.7
+    },
+    {
+        "name": "Product 74",
+        "quality": 3,
+        "ageInMonths": 20,
+        "initialPrice": 110,
+        "sellingPrice": 99
+    },
+    {
+        "name": "Product 75",
+        "quality": 2,
+        "ageInMonths": 29,
+        "initialPrice": 159,
+        "sellingPrice": 159
+    },
+    {
+        "name": "Product 76",
+        "quality": 5,
+        "ageInMonths": 16,
+        "initialPrice": 74,
+        "sellingPrice": 51.8
+    },
+    {
+        "name": "Product 77",
+        "quality": 2,
+        "ageInMonths": 14,
+        "initialPrice": 152,
+        "sellingPrice": 126.67
+    },
+    {
+        "name": "Product 78",
+        "quality": 3,
+        "ageInMonths": 4,
+        "initialPrice": 196,
+        "sellingPrice": 111.07
+    },
+    {
+        "name": "Product 79",
+        "quality": 4,
+        "ageInMonths": 3,
+        "initialPrice": 190,
+        "sellingPrice": 95
+    },
+    {
+        "name": "Product 80",
+        "quality": 1,
+        "ageInMonths": 8,
+        "initialPrice": 80,
+        "sellingPrice": 63.11
+    },
+    {
+        "name": "Product 81",
+        "quality": 4,
+        "ageInMonths": 9,
+        "initialPrice": 193,
+        "sellingPrice": 135.1
+    },
+    {
+        "name": "Product 82",
+        "quality": 4,
+        "ageInMonths": 30,
+        "initialPrice": 188,
+        "sellingPrice": 150.4
+    },
+    {
+        "name": "Product 83",
+        "quality": 2,
+        "ageInMonths": 8,
+        "initialPrice": 79,
+        "sellingPrice": 54.42
+    },
+    {
+        "name": "Product 84",
+        "quality": 4,
+        "ageInMonths": 22,
+        "initialPrice": 77,
+        "sellingPrice": 59.03
+    },
+    {
+        "name": "Product 85",
+        "quality": 5,
+        "ageInMonths": 32,
+        "initialPrice": 65,
+        "sellingPrice": 45.5
+    },
+    {
+        "name": "Product 86",
+        "quality": 5,
+        "ageInMonths": 21,
+        "initialPrice": 153,
+        "sellingPrice": 81.6
+    },
+    {
+        "name": "Product 87",
+        "quality": 1,
+        "ageInMonths": 35,
+        "initialPrice": 88,
+        "sellingPrice": 95.82
+    },
+    {
+        "name": "Product 88",
+        "quality": 3,
+        "ageInMonths": 35,
+        "initialPrice": 111,
+        "sellingPrice": 98.67
+    },
+    {
+        "name": "Product 89",
+        "quality": 4,
+        "ageInMonths": 33,
+        "initialPrice": 181,
+        "sellingPrice": 138.77
+    },
+    {
+        "name": "Product 90",
+        "quality": 4,
+        "ageInMonths": 16,
+        "initialPrice": 132,
+        "sellingPrice": 105.6
+    },
+    {
+        "name": "Product 91",
+        "quality": 3,
+        "ageInMonths": 3,
+        "initialPrice": 183,
+        "sellingPrice": 109.8
+    },
+    {
+        "name": "Product 92",
+        "quality": 5,
+        "ageInMonths": 2,
+        "initialPrice": 108,
+        "sellingPrice": 36
+    },
+    {
+        "name": "Product 93",
+        "quality": 2,
+        "ageInMonths": 1,
+        "initialPrice": 139,
+        "sellingPrice": 88.03
+    },
+    {
+        "name": "Product 94",
+        "quality": 5,
+        "ageInMonths": 5,
+        "initialPrice": 125,
+        "sellingPrice": 44.44
+    },
+    {
+        "name": "Product 95",
+        "quality": 2,
+        "ageInMonths": 22,
+        "initialPrice": 66,
+        "sellingPrice": 66
+    },
+    {
+        "name": "Product 96",
+        "quality": 1,
+        "ageInMonths": 35,
+        "initialPrice": 193,
+        "sellingPrice": 212.3
+    },
+    {
+        "name": "Product 97",
+        "quality": 5,
+        "ageInMonths": 15,
+        "initialPrice": 131,
+        "sellingPrice": 72.05
+    },
+    {
+        "name": "Product 98",
+        "quality": 1,
+        "ageInMonths": 10,
+        "initialPrice": 144,
+        "sellingPrice": 116.8
+    },
+    {
+        "name": "Product 99",
+        "quality": 3,
+        "ageInMonths": 24,
+        "initialPrice": 172,
+        "sellingPrice": 131.87
+    },
+    {
+        "name": "Product 100",
+        "quality": 1,
+        "ageInMonths": 21,
+        "initialPrice": 73,
+        "sellingPrice": 76.65
+    }
+]
