@@ -1,0 +1,602 @@
+[
+  {
+    "initialPrice": 221000,
+    "sellingPrice": 173850,
+    "quality": 4,
+    "ageInMonths": 8
+  },
+  {
+    "initialPrice": 536000,
+    "sellingPrice": 432370,
+    "quality": 3,
+    "ageInMonths": 8
+  },
+  {
+    "initialPrice": 757000,
+    "sellingPrice": 664000,
+    "quality": 4,
+    "ageInMonths": 9
+  },
+  {
+    "initialPrice": 135000,
+    "sellingPrice": 81300,
+    "quality": 1,
+    "ageInMonths": 7
+  },
+  {
+    "initialPrice": 342000,
+    "sellingPrice": 303240,
+    "quality": 4,
+    "ageInMonths": 5
+  },
+  {
+    "initialPrice": 902000,
+    "sellingPrice": 863340,
+    "quality": 5,
+    "ageInMonths": 9
+  },
+  {
+    "initialPrice": 865000,
+    "sellingPrice": 766970,
+    "quality": 4,
+    "ageInMonths": 2
+  },
+  {
+    "initialPrice": 868000,
+    "sellingPrice": 630750,
+    "quality": 2,
+    "ageInMonths": 10
+  },
+  {
+    "initialPrice": 533000,
+    "sellingPrice": 429950,
+    "quality": 3,
+    "ageInMonths": 8
+  },
+  {
+    "initialPrice": 555000,
+    "sellingPrice": 347800,
+    "quality": 2,
+    "ageInMonths": 8
+  },
+  {
+    "initialPrice": 467000,
+    "sellingPrice": 376710,
+    "quality": 3,
+    "ageInMonths": 1
+  },
+  {
+    "initialPrice": 637000,
+    "sellingPrice": 348230,
+    "quality": 1,
+    "ageInMonths": 8
+  },
+  {
+    "initialPrice": 693000,
+    "sellingPrice": 468930,
+    "quality": 2,
+    "ageInMonths": 5
+  },
+  {
+    "initialPrice": 403000,
+    "sellingPrice": 292850,
+    "quality": 2,
+    "ageInMonths": 6
+  },
+  {
+    "initialPrice": 540000,
+    "sellingPrice": 435600,
+    "quality": 3,
+    "ageInMonths": 3
+  },
+  {
+    "initialPrice": 121000,
+    "sellingPrice": 84700,
+    "quality": 5,
+    "ageInMonths": 9
+  },
+  {
+    "initialPrice": 257000,
+    "sellingPrice": 182470,
+    "quality": 2,
+    "ageInMonths": 3
+  },
+  {
+    "initialPrice": 605000,
+    "sellingPrice": 484000,
+    "quality": 3,
+    "ageInMonths": 6
+  },
+  {
+    "initialPrice": 164000,
+    "sellingPrice": 157170,
+    "quality": 5,
+    "ageInMonths": 10
+  },
+  {
+    "initialPrice": 639000,
+    "sellingPrice": 464340,
+    "quality": 2,
+    "ageInMonths": 5
+  },
+  {
+    "initialPrice": 236000,
+    "sellingPrice": 158380,
+    "quality": 2,
+    "ageInMonths": 8
+  },
+  {
+    "initialPrice": 874000,
+    "sellingPrice": 774950,
+    "quality": 4,
+    "ageInMonths": 3
+  },
+  {
+    "initialPrice": 286000,
+    "sellingPrice": 274080,
+    "quality": 5,
+    "ageInMonths": 5
+  },
+  {
+    "initialPrice": 916000,
+    "sellingPrice": 409150,
+    "quality": 1,
+    "ageInMonths": 7
+  },
+  {
+    "initialPrice": 879000,
+    "sellingPrice": 849700,
+    "quality": 5,
+    "ageInMonths": 9
+  },
+  {
+    "initialPrice": 703000,
+    "sellingPrice": 567090,
+    "quality": 3,
+    "ageInMonths": 5
+  },
+  {
+    "initialPrice": 975000,
+    "sellingPrice": 910000,
+    "quality": 5,
+    "ageInMonths": 8
+  },
+  {
+    "initialPrice": 280000,
+    "sellingPrice": 181070,
+    "quality": 1,
+    "ageInMonths": 3
+  },
+  {
+    "initialPrice": 788000,
+    "sellingPrice": 496440,
+    "quality": 1,
+    "ageInMonths": 6
+  },
+  {
+    "initialPrice": 370000,
+    "sellingPrice": 303400,
+    "quality": 4,
+    "ageInMonths": 9
+  },
+  {
+    "initialPrice": 625000,
+    "sellingPrice": 447220,
+    "quality": 2,
+    "ageInMonths": 8
+  },
+  {
+    "initialPrice": 719000,
+    "sellingPrice": 637510,
+    "quality": 4,
+    "ageInMonths": 4
+  },
+  {
+    "initialPrice": 681000,
+    "sellingPrice": 573550,
+    "quality": 4,
+    "ageInMonths": 7
+  },
+  {
+    "initialPrice": 913000,
+    "sellingPrice": 796480,
+    "quality": 4,
+    "ageInMonths": 10
+  },
+  {
+    "initialPrice": 211000,
+    "sellingPrice": 153330,
+    "quality": 2,
+    "ageInMonths": 5
+  },
+  {
+    "initialPrice": 425000,
+    "sellingPrice": 321580,
+    "quality": 3,
+    "ageInMonths": 10
+  },
+  {
+    "initialPrice": 787000,
+    "sellingPrice": 508930,
+    "quality": 1,
+    "ageInMonths": 4
+  },
+  {
+    "initialPrice": 658000,
+    "sellingPrice": 528040,
+    "quality": 3,
+    "ageInMonths": 9
+  },
+  {
+    "initialPrice": 790000,
+    "sellingPrice": 610930,
+    "quality": 3,
+    "ageInMonths": 4
+  },
+  {
+    "initialPrice": 188000,
+    "sellingPrice": 136610,
+    "quality": 2,
+    "ageInMonths": 1
+  },
+  {
+    "initialPrice": 845000,
+    "sellingPrice": 816830,
+    "quality": 5,
+    "ageInMonths": 5
+  },
+  {
+    "initialPrice": 281000,
+    "sellingPrice": 249150,
+    "quality": 4,
+    "ageInMonths": 10
+  },
+  {
+    "initialPrice": 331000,
+    "sellingPrice": 286870,
+    "quality": 4,
+    "ageInMonths": 8
+  },
+  {
+    "initialPrice": 213000,
+    "sellingPrice": 171820,
+    "quality": 3,
+    "ageInMonths": 7
+  },
+  {
+    "initialPrice": 352000,
+    "sellingPrice": 227630,
+    "quality": 1,
+    "ageInMonths": 3
+  },
+  {
+    "initialPrice": 493000,
+    "sellingPrice": 318810,
+    "quality": 1,
+    "ageInMonths": 4
+  },
+  {
+    "initialPrice": 184000,
+    "sellingPrice": 127570,
+    "quality": 2,
+    "ageInMonths": 2
+  },
+  {
+    "initialPrice": 535000,
+    "sellingPrice": 335270,
+    "quality": 1,
+    "ageInMonths": 8
+  },
+  {
+    "initialPrice": 377000,
+    "sellingPrice": 334270,
+    "quality": 4,
+    "ageInMonths": 1
+  },
+  {
+    "initialPrice": 256000,
+    "sellingPrice": 139950,
+    "quality": 1,
+    "ageInMonths": 8
+  },
+  {
+    "initialPrice": 523000,
+    "sellingPrice": 505570,
+    "quality": 5,
+    "ageInMonths": 7
+  },
+  {
+    "initialPrice": 325000,
+    "sellingPrice": 314170,
+    "quality": 5,
+    "ageInMonths": 2
+  },
+  {
+    "initialPrice": 590000,
+    "sellingPrice": 381530,
+    "quality": 1,
+    "ageInMonths": 3
+  },
+  {
+    "initialPrice": 855000,
+    "sellingPrice": 826500,
+    "quality": 5,
+    "ageInMonths": 6
+  },
+  {
+    "initialPrice": 844000,
+    "sellingPrice": 545790,
+    "quality": 1,
+    "ageInMonths": 4
+  },
+  {
+    "initialPrice": 804000,
+    "sellingPrice": 584240,
+    "quality": 2,
+    "ageInMonths": 3
+  },
+  {
+    "initialPrice": 387000,
+    "sellingPrice": 323790,
+    "quality": 4,
+    "ageInMonths": 5
+  },
+  {
+    "initialPrice": 446000,
+    "sellingPrice": 359770,
+    "quality": 3,
+    "ageInMonths": 2
+  },
+  {
+    "initialPrice": 396000,
+    "sellingPrice": 319440,
+    "quality": 3,
+    "ageInMonths": 5
+  },
+  {
+    "initialPrice": 566000,
+    "sellingPrice": 411290,
+    "quality": 2,
+    "ageInMonths": 5
+  },
+  {
+    "initialPrice": 332000,
+    "sellingPrice": 314290,
+    "quality": 5,
+    "ageInMonths": 8
+  },
+  {
+    "initialPrice": 580000,
+    "sellingPrice": 375070,
+    "quality": 1,
+    "ageInMonths": 7
+  },
+  {
+    "initialPrice": 777000,
+    "sellingPrice": 616420,
+    "quality": 3,
+    "ageInMonths": 7
+  },
+  {
+    "initialPrice": 392000,
+    "sellingPrice": 347570,
+    "quality": 4,
+    "ageInMonths": 1
+  },
+  {
+    "initialPrice": 796000,
+    "sellingPrice": 694420,
+    "quality": 4,
+    "ageInMonths": 10
+  },
+  {
+    "initialPrice": 640000,
+    "sellingPrice": 413870,
+    "quality": 1,
+    "ageInMonths": 1
+  },
+  {
+    "initialPrice": 203000,
+    "sellingPrice": 179990,
+    "quality": 4,
+    "ageInMonths": 3
+  },
+  {
+    "initialPrice": 497000,
+    "sellingPrice": 304830,
+    "quality": 1,
+    "ageInMonths": 8
+  },
+  {
+    "initialPrice": 251000,
+    "sellingPrice": 179050,
+    "quality": 2,
+    "ageInMonths": 7
+  },
+  {
+    "initialPrice": 332000,
+    "sellingPrice": 214690,
+    "quality": 1,
+    "ageInMonths": 1
+  },
+  {
+    "initialPrice": 563000,
+    "sellingPrice": 322790,
+    "quality": 3,
+    "ageInMonths": 8
+  },
+  {
+    "initialPrice": 935000,
+    "sellingPrice": 903830,
+    "quality": 5,
+    "ageInMonths": 2
+  },
+  {
+    "initialPrice": 547000,
+    "sellingPrice": 528770,
+    "quality": 5,
+    "ageInMonths": 6
+  },
+  {
+    "initialPrice": 809000,
+    "sellingPrice": 480010,
+    "quality": 2,
+    "ageInMonths": 5
+  },
+  {
+    "initialPrice": 647000,
+    "sellingPrice": 625430,
+    "quality": 5,
+    "ageInMonths": 2
+  },
+  {
+    "initialPrice": 317000,
+    "sellingPrice": 281070,
+    "quality": 4,
+    "ageInMonths": 3
+  },
+  {
+    "initialPrice": 132000,
+    "sellingPrice": 127600,
+    "quality": 5,
+    "ageInMonths": 3
+  },
+  {
+    "initialPrice": 992000,
+    "sellingPrice": 641490,
+    "quality": 1,
+    "ageInMonths": 6
+  },
+  {
+    "initialPrice": 126000,
+    "sellingPrice": 68040,
+    "quality": 3,
+    "ageInMonths": 9
+  },
+  {
+    "initialPrice": 380000,
+    "sellingPrice": 301100,
+    "quality": 3,
+    "ageInMonths": 10
+  },
+  {
+    "initialPrice": 714000,
+    "sellingPrice": 575960,
+    "quality": 3,
+    "ageInMonths": 1
+  },
+  {
+    "initialPrice": 384000,
+    "sellingPrice": 279040,
+    "quality": 2,
+    "ageInMonths": 1
+  },
+  {
+    "initialPrice": 656000,
+    "sellingPrice": 293010,
+    "quality": 1,
+    "ageInMonths": 7
+  },
+  {
+    "initialPrice": 460000,
+    "sellingPrice": 371070,
+    "quality": 3,
+    "ageInMonths": 1
+  },
+  {
+    "initialPrice": 934000,
+    "sellingPrice": 747200,
+    "quality": 3,
+    "ageInMonths": 6
+  },
+  {
+    "initialPrice": 369000,
+    "sellingPrice": 356700,
+    "quality": 5,
+    "ageInMonths": 10
+  },
+  {
+    "initialPrice": 202000,
+    "sellingPrice": 161600,
+    "quality": 5,
+    "ageInMonths": 6
+  },
+  {
+    "initialPrice": 116000,
+    "sellingPrice": 84290,
+    "quality": 2,
+    "ageInMonths": 4
+  },
+  {
+    "initialPrice": 221000,
+    "sellingPrice": 178270,
+    "quality": 3,
+    "ageInMonths": 2
+  },
+  {
+    "initialPrice": 528000,
+    "sellingPrice": 450560,
+    "quality": 4,
+    "ageInMonths": 6
+  },
+  {
+    "initialPrice": 937000,
+    "sellingPrice": 449760,
+    "quality": 1,
+    "ageInMonths": 6
+  },
+  {
+    "initialPrice": 356000,
+    "sellingPrice": 230210,
+    "quality": 1,
+    "ageInMonths": 5
+  },
+  {
+    "initialPrice": 931000,
+    "sellingPrice": 595840,
+    "quality": 1,
+    "ageInMonths": 6
+  },
+  {
+    "initialPrice": 767000,
+    "sellingPrice": 728650,
+    "quality": 5,
+    "ageInMonths": 6
+  },
+  {
+    "initialPrice": 380000,
+    "sellingPrice": 359730,
+    "quality": 5,
+    "ageInMonths": 8
+  },
+  {
+    "initialPrice": 654000,
+    "sellingPrice": 422920,
+    "quality": 1,
+    "ageInMonths": 3
+  },
+  {
+    "initialPrice": 436000,
+    "sellingPrice": 386590,
+    "quality": 4,
+    "ageInMonths": 1
+  },
+  {
+    "initialPrice": 920000,
+    "sellingPrice": 594930,
+    "quality": 1,
+    "ageInMonths": 4
+  },
+  {
+    "initialPrice": 390000,
+    "sellingPrice": 345800,
+    "quality": 4,
+    "ageInMonths": 1
+  },
+  {
+    "initialPrice": 783000,
+    "sellingPrice": 542880,
+    "quality": 2,
+    "ageInMonths": 6
+  }
+]
