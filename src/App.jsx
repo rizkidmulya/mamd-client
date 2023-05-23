@@ -13,8 +13,8 @@ function App() {
       <Route path="/" element={<Layout />}>
         <Route index element={<PredictPage />} />
         <Route path="products" element={<Product />} />
-        <Route path="model" element={<ModelPage />} />
-        <Route path="preset" element={<ModelLoad />} />
+        <Route path="models" element={<ModelPage />} />
+        <Route path="presets" element={<ModelLoad />} />
       </Route>
     </Routes>
   );
