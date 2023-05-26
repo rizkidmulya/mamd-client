@@ -1,0 +1,40 @@
+[
+  {
+    "id": 1,
+    "isFinished": true,
+    "selected": true,
+    "name": "Test Model 1",
+    "saw": [
+      { "criteria": "initialPrice", "weight": 0.3, "selected": true },
+      { "criteria": "sellingPrice", "weight": 0, "selected": false },
+      { "criteria": "ageInMonths", "weight": 0.3, "selected": true },
+      { "criteria": "quality", "weight": 0.3, "selected": true }
+    ],
+    "target": { "criteria": "sellingPrice" },
+    "sdg": {
+      "epochs": 1000,
+      "learningRate": 0.01,
+      "coeffs": [
+        13.406021166187958, 99.72217336073143, 185.34538230803025,
+        -135.15840680695862
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "isFinished": false,
+    "selected": false,
+    "name": "Test Model 2",
+    "saw": [
+      { "criteria": "initialPrice", "weight": 0, "selected": false },
+      { "criteria": "sellingPrice", "weight": 0, "selected": false },
+      { "criteria": "ageInMonths", "weight": 0, "selected": false },
+      { "criteria": "quality", "weight": 1, "selected": true }
+    ],
+    "sdg": {
+      "epochs": 1000,
+      "learningRate": 0.01,
+      "coeffs": []
+    }
+  }
+]

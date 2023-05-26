@@ -40,7 +40,7 @@ const Navbar = ({
             color="inherit"
             aria-label="open menu"
             edge="start"
-            sx={{ mr: 2, display: { md: "none" } }}
+            sx={{ mr: 2, display: { sm: "none" } }}
           >
             <MenuIcon />
           </IconButton>
@@ -114,6 +114,7 @@ const Navbar = ({
 Navbar.propTypes = {
   navItems: PropTypes.arrayOf(PropTypes.object),
   title: PropTypes.string,
+  drawerWidth: PropTypes.number,
 };
 
 export default Navbar;
